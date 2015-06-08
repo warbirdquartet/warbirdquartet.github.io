@@ -1,0 +1,103 @@
+/*
+     FILE ARCHIVED ON 23:11:50 Feb 2, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 4:52:00 Jun 8, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+body,
+html {
+    	margin:0;
+    	padding:0;
+    	color:#000;
+    }
+    
+#wrap {
+   	width: 900px;
+    	padding: 0px;
+}    
+
+#nav {
+	width: 900px;
+	height: 60px;
+    	padding: 0px 0px 0px 0px;
+    	font-family: Arial Black, sans-serif;
+    	font-size: large;
+    }
+     
+#nav ul{
+	display: inline;
+	margin:0px 0px 20px 0px;
+    	padding:0px;
+    	list-style:none;
+    	vertical-align: 100%;
+    }
+#nav li{
+    	display:inline;
+    	margin:0px 0px 10px 0px;
+    	padding: 0px 5px 0px 5px;
+    } 
+#nav a {
+	text-decoration: none;
+}
+a:hover {
+	color: #000000;
+}
+a {
+	color: #499573;
+}
+#header a {
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#nav .hotlink a {
+	color: #000000;
+
+}
+
+#main {
+    	float:left;
+    	width:545px;
+    	font-family: Verdana;
+    	font-size: small;
+    	margin: 0px 0px 0px 50px;
+    }
+#sidebar {
+   	float:right;
+    	width:305px;
+    	font-family: Verdana;
+    	font-size: small;
+    }
+    
+#footer {
+	margin-left: 50px;
+    	clear:both;
+    	font-family: Palatino, serif;
+    	font-size: small;
+    }
+
+#header h1 {
+    	padding:5px;
+    	margin:0;
+    }
+
+#main h2, #main h3, #main p {
+    	padding:0 10px;
+    }
+#sidebar ul {
+    	margin-bottom:0;
+    }
+#sidebar h3, #sidebar p {
+    	padding:0 10px;
+    }
+#footer p {
+    	padding:0 10px;
+    	margin:0;
+    }
+.itemfooter {
+    font-size: x-small;
+}
+
